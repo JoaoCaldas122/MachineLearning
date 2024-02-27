@@ -1,5 +1,5 @@
-# Trabalho prático da UC de Mineração de Dados
+# Project for Machine Learning Course
 
-- Desenvolvimento de scrapers para obtenção de um dataset
-- Análise estatística ao dataset obtido
-- Desenvolvimento de um modelo de classificação multi-classe para obtenção da probabilidade de cada resultado final possível de um jogo 
+- Predict English Premier League 22/23 Standings
+- Statistical Analysis to the results
+- Development of a multi-class classification Model to obtain the probability of each game's possible result 
